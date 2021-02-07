@@ -16,7 +16,7 @@ Unity version: 2019.4.11f1
 - Escape : Exit spectate
 
 ### About
-A soccer match visualizer.
+The goal of this project was to visualize the given game data.
 
 After reading the assignment I quickly started working on this [initial class diagram](https://drive.google.com/file/d/1__MOcfRyjXJjwldVApxFsPZ1-wdfPiGW/view?usp=sharing), where I was able to construct a system that loads the data async into memory, it also removes frames it doesn't need anymore.
 The system has two main classes, [The reader](https://github.com/Stanley-Dam/SoccerSim/blob/main/Assets/Simulator/Reader/Reader.cs) and [The player](https://github.com/Stanley-Dam/SoccerSim/blob/main/Assets/Simulator/Player/Player.cs).
